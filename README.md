@@ -35,8 +35,8 @@
 ![vae1](/images/vae1.png)
 ---
 ## Related generative models
-![gen-models](/images/gan-models.png)
-![gen-mols](/images/gen-mols.gif)
+![gen-models](/images/gen-models.png)
+![gan-mols](/images/gan-mols.gif)
 ---
 ![hyperbolic](/images/hyperbolic-space.png)
 ---
