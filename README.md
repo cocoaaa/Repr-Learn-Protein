@@ -1,13 +1,13 @@
 # Scalable synthesis of new biomolecules using deep generative models
 ## Hayley Song
 
-![motivation](motivation.png)
+![motivation](/images/motivation.png)
 
 # Related Works
 - Deep generative models of genetic variation capture the effects of mutations. Nat Methods 15, 816–822 (2018). 
 - Deep Sematic Protein Annotation Classification and Exploration
 - A multiscale statistical mechanical framework integrates biophysical and genomic data to assemble cancer networks. Nat Genet 46, 1363–1371 (2014)
-- Onto2vec: joint vector-based representation of biological entities and their ontology-based annotations. arXiv preprint arXiv:1802.00864.(2018)
+- Onto2vec: joint vector-based representation of biological entities and their ontology-based annotations. arXiv preprint arXiv:1802.00864.(2018)
 
 # Embeddings
 - Poincaré Embeddings for Learning Hierarchical Representations
@@ -32,18 +32,18 @@
 	- Encoder is implemented as a deep neural network and is a stochastic function that maps the observed data to a latent representation
 	- Decoder is also implemented as a deep neural network, and is a stochastic function that maps a latent vector (“code vector”) to a data realization (a possible/realistic/plausible protein molecule)
   
-![vae1](vae1.png)
+![vae1](/images/vae1.png)
 ---
 ## Related generative models
-![gen-models](gen-models.png)
+![gen-models](/images/gen-models.png)
 ---
-![hyperbolic](hyperbolic-space.png)
+![hyperbolic](/images/hyperbolic-space.png)
 ---
-![desired-output](desired-output.png)
+![desired-output](/images/desired-output.png)
 ---
-![applications](applications.png)
-![learn](learn.png)
-![control](control.png)
+![applications](/images/applications.png)
+![learn](/images/learn.png)
+![control](/images/control.png)
 
 # Tools
 - cuda: parallelized training of deep generative models
