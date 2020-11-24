@@ -36,7 +36,7 @@
 ---
 ## Related generative models
 ![gen-models](/images/gen-models.png)
-![gan-mols](/images/gan-mols.gif)
+![gan-mols](/images/gan-mol.gif)
 ---
 ![hyperbolic](/images/hyperbolic-space.png)
 ---
